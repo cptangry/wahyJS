@@ -52,8 +52,6 @@ Projenin sorunsuz çalışması için XML veri dosyalarının wahy.js ile aynı 
 
 Komut satırı arayüzü varsayılan olarak İngilizce dilinde, 1. Sure (Fatiha) ve tüm ayetler (all) seçili olacak şekilde kurgulanmıştır.
 
-Gönderdiğin düz metin, az önce hazırladığım README dosyasındaki CLI komut seçenekleri tablosunun biçimlendirmesi kaybolmuş hali. Metni tekrar düzenli bir tablo (Markdown) formatına dönüştürülmüş haliyle aşağıda bulabilirsin:
-
 | Seçenek | Uzun Adı | Açıklama | Varsayılan |
 | --- | --- | --- | --- |
 | `-l` | `--lang` | Okuma yapılacak dil seçimi (`tur` veya `eng`) | `eng` |
