@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Yazarın notu: utf-8 kodlaması Node.js'de fs.readFileSync ile varsayılan olarak ele alınır.
+// not: utf-8 kodlaması Node.js'de fs.readFileSync ile varsayılan olarak ele alınır.
 
 const fs = require('fs');
 const path = require('path');
